@@ -7,7 +7,7 @@ public class gitDay4 {
 
 	
 	System.out.println("local first commit master branch ");
-	
+	System.out.println("first commit from local master");
 	
 	
 	
